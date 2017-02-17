@@ -1,0 +1,28 @@
+{
+  "transloadNumber": "5097",
+  "etaDate": "2017-02-06",
+  "asnNumber": 10024589,
+  "poNumber": "PO1",
+  "poCreationDate": "2017-02-06",
+  "poTypeCode": 1,
+  "vendorNumber": 567346597,
+  "departmentNumber": 10,
+  "bolNumber": "10024589",
+  "statusCode": 2,
+  "skuNumber": 123456,
+  "shippedQty": 100,
+  "skuTypeCode": 1,
+  "buyUomQty": 5,
+  "buyPackUoiCode": 1,
+  "containerId": "100001",
+  "transloadAllocationDcDTOs": [
+    {
+      "dcNumber": 5412,
+      "allocQty": 50
+    },
+    {
+      "dcNumber": 5413,
+      "allocQty": 50
+    }
+  ]
+}

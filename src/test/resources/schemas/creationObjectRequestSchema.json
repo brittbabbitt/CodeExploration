@@ -1,0 +1,24 @@
+{
+  "asnNumber": 0,
+  "bolNumber": "string",
+  "buyPackUoiCode": 0,
+  "buyUomQty": 0,
+  "containerId": "string",
+  "departmentNumber": 0,
+  "etaDate": "string",
+  "poCreationDate": "string",
+  "poNumber": "string",
+  "poTypeCode": 0,
+  "shippedQty": 0,
+  "skuNumber": 0,
+  "skuTypeCode": 0,
+  "statusCode": 0,
+  "transloadAllocationDcDTOs": [
+    {
+      "allocQty": 0,
+      "dcNumber": 0
+    }
+  ],
+  "transloadNumber": "string",
+  "vendorNumber": 0
+}
